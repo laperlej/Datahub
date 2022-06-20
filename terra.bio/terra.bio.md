@@ -21,7 +21,7 @@
 
 ### info
 
-- https://terra.bio/ 
+- [https://terra.bio/](https://terra.bio/)
 - from the Broad Institute
 - collaboration with Microsoft and Verily
 
@@ -30,8 +30,7 @@
 - very similar to GenAP
 - built on top of google cloud
 - lots of public/private data from institutions
-- price is based on google cloud account
-- [analysis](analysis) tools
+- lots of [analysis](analysis) tool/pipeline options
 - federated data echosystem(like candig)
 - customizable [workspace](#workspace)
 
@@ -54,6 +53,7 @@
 ### analysis
 
 - wdl pipelines (used by GA4GH)
+  - [dockstore](https://dockstore.org)
 - jupyter
 - Rstudio
 - galaxy
@@ -83,6 +83,9 @@
   - Workflows
   - Job history
 - shareable
+  - can be viewed or cloned
+
+![workspace](workspace.png)
 
 ### galaxy
 
