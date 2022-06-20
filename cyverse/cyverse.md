@@ -59,6 +59,10 @@
 - simple folder structure
 - 50GB free
 - paid after
+- public direct download link [example](https://data.cyverse.org/dav-anon/iplant/home/laperlej/helloworld.txt)
+- built-in preview/editor
+
+![editor](Screen%20Shot%202022-06-20%20at%202.17.03%20AM.png)
 
 ### metadata
 
