@@ -41,6 +41,8 @@
   - cmd line tools
   - tool publishing
 - [cloud](#cloud) features are restricted to U.S.-based researchers
+- doesn't seem to handle compressed files on it's own like galaxy
+- app usage subject to approval, need to make formal request for everything, 1-2 days process time
 
 ## Overview
 
