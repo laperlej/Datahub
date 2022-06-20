@@ -12,6 +12,7 @@
     - [general](#general)
     - [analysis](#analysis)
     - [data](#data)
+    - [workspace](#workspace)
     - [galaxy](#galaxy)
     - [SSO](#sso)
     - [Pricing](#pricing)
@@ -30,13 +31,16 @@
 - built on top of google cloud
 - lots of public/private data from institutions
 - price is based on google cloud account
-- analysis tools
+- [analysis](analysis) tools
 - federated data echosystem(like candig)
+- customizable [workspace](#workspace)
 
 ### <span style="color:red">Negative points</span>
 
 - galaxy is barebone
-- pay google cloud for ressources
+- thin wrapper over google cloud
+- data is a google cloud volume you manage yourself
+- pay google cloud for ressources, nothing is free
 - users cannot share publicly without approval from the terra team
 
 ## overview
@@ -56,13 +60,29 @@
 
 ### data
 
-- cannot be made public with approval from the terra team
+- can only be made public with approval from the terra team
 - can be shared with other members
-- no limit (pay for usage)
+- pay for usage
 - some data require authorisation
 - can create groups and give permissions
 - "transfer" is only metadata
-- real transfer only happens for analysis
+- everything is remote (google cloud)
+- data banks to mix with your own data
+  - 1000 genomes
+  - Encode
+  - Human Cell Atlas
+  - etc
+
+### workspace
+
+- customize dashboard (1 page editable)
+- multiple sections
+  - Dashboard
+  - Data
+  - Notebooks
+  - Workflows
+  - Job history
+- shareable
 
 ### galaxy
 
