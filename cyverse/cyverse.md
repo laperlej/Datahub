@@ -6,8 +6,8 @@
   - [Table of Content](#table-of-content)
   - [Summary](#summary)
     - [Info](#info)
-    - [key features](#key-features)
-    - [Negative points](#negative-points)
+    - [<span style="color:green">Key Features</span>](#key-features)
+    - [<span style="color:red">Negative points</span>](#negative-points)
   - [Overview](#overview)
     - [General](#general)
     - [data](#data)
@@ -25,19 +25,21 @@
 - https://www.cyverse.org/
 - National Science Foundation
 
-### key features
-
+### <span style="color:green">Key Features</span>
 - free account
+- first 50GB free
 - community data, publicly accessible
 - community [apps](#apps)
 - very customizable
   - add your own data/apps/workflow
 - openstack [cloud](#cloud)
 
-### Negative points
-
+### <span style="color:red">Negative points</span>
 - supports metadata but not search
 - no galaxy, reinvents many galaxy features
+  - workflow
+  - cmd line tools
+  - tool publishing
 - cloud is restricted to U.S.-based researchers
 
 ## Overview

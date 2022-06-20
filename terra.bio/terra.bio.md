@@ -6,8 +6,8 @@
   - [Table of Content](#table-of-content)
   - [Summary](#summary)
     - [info](#info)
-    - [key features](#key-features)
-    - [Negative points](#negative-points)
+    - [<span style="color:green">Key Features</span>](#key-features)
+    - [<span style="color:red">Negative points</span>](#negative-points)
   - [overview](#overview)
     - [general](#general)
     - [analysis](#analysis)
@@ -24,7 +24,7 @@
 - from the Broad Institute
 - collaboration with Microsoft and Verily
 
-### key features
+### <span style="color:green">Key Features</span>
 
 - very similar to GenAP
 - built on top of google cloud
@@ -33,7 +33,7 @@
 - analysis tools
 - federated data echosystem(like candig)
 
-### Negative points
+### <span style="color:red">Negative points</span>
 
 - galaxy is barebone
 - pay google cloud for ressources

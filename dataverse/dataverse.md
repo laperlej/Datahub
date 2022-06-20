@@ -6,8 +6,8 @@
   - [Table of Content](#table-of-content)
   - [Summary](#summary)
     - [info](#info)
-    - [key features](#key-features)
-    - [Negative points](#negative-points)
+    - [<span style="color:green">Key Features</span>](#key-features)
+    - [<span style="color:red">Negative points</span>](#negative-points)
   - [Overview](#overview)
     - [general](#general)
     - [collections](#collections)
@@ -24,7 +24,7 @@
 - https://dataverse.org
 - from Harvard
 
-### key features
+### <span style="color:green">Key Features</span>
 
 - free
 - Institutions can have an account to publish data( department, journal, university, ... )
@@ -35,7 +35,7 @@
 - Options for sharing deidentified or sensitive data
 - Data analysis and visualization tools 
 
-### Negative points
+### <span style="color:red">Negative points</span>
 
 - <2.5GB files
 - <1TB total
