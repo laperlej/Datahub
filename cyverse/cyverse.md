@@ -40,7 +40,7 @@
   - workflow
   - cmd line tools
   - tool publishing
-- cloud is restricted to U.S.-based researchers
+- [cloud](#cloud) features are restricted to U.S.-based researchers
 
 ## Overview
 
