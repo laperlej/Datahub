@@ -2,6 +2,6 @@
 
 [Cyverse](cyverse/cyverse.md)
 
-[dataverse](dataverse/dataverse.md)
+[Dataverse](dataverse/dataverse.md)
 
-[terra.bio](terra.bio/terra.bio.md)
+[Terra.bio](terra.bio/terra.bio.md)
