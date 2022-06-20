@@ -85,7 +85,7 @@ publisher (repository that published the dataset)
 - version number
 - universal numerical fingerprint (UNF): for tabular data
 
-![citation](Screen%20Shot%202022-06-19%20at%207.31.13%20PM.png)
+![citation](citation.png)
 
 ### SSO sources
 
