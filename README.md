@@ -1,4 +1,4 @@
-### Pages
+### Platforms
 
 [Cyverse](cyverse/cyverse.md)
 

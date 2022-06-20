@@ -35,7 +35,6 @@
 - openstack [cloud](#cloud)
 
 ### <span style="color:red">Negative points</span>
-- supports metadata but not search
 - no galaxy, reinvents many galaxy features
   - workflow
   - cmd line tools
@@ -62,7 +61,7 @@
 - 50GB free
 - paid after
 - public direct download link [example](https://data.cyverse.org/dav-anon/iplant/home/laperlej/helloworld.txt)
-- built-in preview/editor
+- built-in preview/editor with [mui](https://mui.com/)(viewer) + [codemirror](https://codemirror.net/)(editor)
 
 ![editor](editor.png)
 
